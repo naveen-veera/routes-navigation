@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "routes-navigation"
+    }
+  },
+  "defaultProject": "routes-navigation",
+  "cli": {
+    "analytics": false
+  }
 }
